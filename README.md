@@ -1,4 +1,4 @@
 libcork
 =======
 
-libcork is a high-performance lib for everything
+libcork is an amalgamation to the libraries under the cork.* name.
