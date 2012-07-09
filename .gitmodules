@@ -1,0 +1,3 @@
+[submodule "ds"]
+	path = ds
+	url = git://github.com/corks/cork.ds.git
