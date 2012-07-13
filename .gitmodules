@@ -1,6 +1,6 @@
 [submodule "ds"]
 	path = ds
-	url = git://github.com/corks/ynys.ds.git
+	url = git://github.com/corks/corc.ds.git
 [submodule "net"]
 	path = net
-	url = git://github.com/corks/ynys.net.git
+	url = git://github.com/corks/corc.net.git
